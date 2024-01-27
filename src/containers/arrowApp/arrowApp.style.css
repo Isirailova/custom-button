@@ -1,0 +1,9 @@
+.arrow-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+.arrow-box p {
+  font-size: 100px;
+}
